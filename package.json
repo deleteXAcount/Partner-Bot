@@ -2,7 +2,7 @@
   "name": "partnerproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Ano.js",
   "dependencies": {
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
@@ -32,13 +32,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rawendev/Partner-By-RaWeN"
+    "url": "https://github.com/ANOxDev/Partner-Bot"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rawendev/Partner-By-RaWeN"
+    "url": "https://github.com/ANOxDev/Partner-Bot"
   },
-  "homepage": "https://github.com/rawendev/Partner-By-RaWeN#readme"
+  "homepage": "https://github.com/AnoDev/Partner-By-Ano#readme"
 }
