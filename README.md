@@ -1,1 +1,5 @@
+
+•```Partner Kurdish```
+
+
 •```BY ANO```
