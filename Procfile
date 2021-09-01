@@ -1,1 +1,1 @@
-worker: By FiiX :node index.js
+worker: :node Ano.js
