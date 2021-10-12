@@ -58,9 +58,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(`  https://discord.gg/kq4KWJnBaw`) ///Link Server Never ///RaWeN
+  message.author.send(` https://discord.gg/JUytTC7FbQ `) ///Link Server Never ///RaWeN
     
-  client.channels.get("ID Channel").send(
+  client.channels.get("890987559193296916").send(
 `> RaWeN Up | By: <@${message.author.id}> 
 ${message.content}`)
 }
